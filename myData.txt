@@ -7,3 +7,4 @@ Changes on the file. Theres a Merge conflict because this change doesnt exist lo
 My local Changes that doesn't conflct with the main branch
 
 This is feature 2 branch
+We're trying to push this one
