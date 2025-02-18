@@ -6,5 +6,8 @@ Fourth Commit
 Changes on the file. Theres a Merge conflict because this change doesnt exist locally
 My local Changes that doesn't conflct with the main branch
 
+Another change on the web so it will close a conflict
+
+
 This is feature 2 branch
 We're trying to push this one
